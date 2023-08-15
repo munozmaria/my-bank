@@ -1,0 +1,14 @@
+
+
+header{
+  display: flex;
+  background-color: #273338;
+  height: 76px;
+  justify-content: space-around;
+  border: 1px solid red;
+  
+}
+
+header > div img{
+  width: 50px;
+}
